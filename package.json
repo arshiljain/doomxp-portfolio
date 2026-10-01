@@ -1,13 +1,9 @@
 {
-  "name": "rehanxp-portfolio",
+  "name": "doomxp-portfolio",
   "version": "1.0.0",
-  "description": "Rehan Azim — CTO, founder, author. A Windows XP styled interactive portfolio clone.",
-  "main": "server.js",
+  "description": "DoomXP — Windows XP Interactive Portfolio Template",
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js"
-  },
-  "keywords": ["windows-xp", "portfolio", "nextjs"],
-  "author": "",
-  "license": "ISC"
+  }
 }
